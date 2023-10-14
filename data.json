@@ -1,0 +1,102 @@
+[
+    {
+      "ID": "1",
+      "Name": "SaiNandan",
+      "Gender": "Male",
+      "Class": "LKG",
+      "ParentName":"Li Rui",
+      "PhoneNumber":"9876543210",
+      "EMailID":"senpaili@gmail.com"
+
+    },
+    {
+      "ID": "2",
+      "Name": "Yang Shi",
+      "Gender": "Female",
+      "Class": "11",
+      "ParentName":"Yang Wen Xin",
+      "PhoneNumber":"8765432190",
+      "EMailID":"shiyang@gmail.com"
+    },
+    {
+      "ID": "3",
+      "Name": "VasuDev",
+      "Gender": "Male",
+      "Class": "UKG",
+      "ParentName":"Devansh",
+      "EMailID":"vasudev@gmail.com"
+    },
+    {
+      "ID": "4",
+      "Name": "Janah Shaik",
+      "Gender": "Female",
+      "Class": "10",
+      "ParentName":"Jimin Shaik",
+      "EMailID":"janah.shaik@gmail.com"
+    },
+    {
+      "ID": "19",
+      "Name": "Vincient van",
+      "Gender": "Male",
+      "Class": "9",
+      "ParentName":"Justin Van",
+      "EMailID":"vincient.van@gmail.com"
+    },
+    {
+      "ID": "20",
+      "Name": "Srija",
+      "Gender": "Female",
+      "Class": "5",
+      "ParentName":"Ram",
+      "EMailID":"srija11@gmail.com"
+    },
+    {
+        "ID": "120",
+        "Name": "Qin Mo",
+        "Gender": "Male",
+        "Class": "10",
+        "ParentName":"Qin Shain",
+        "EMailID":"Mo.Qin120@gmail.com"       
+    },
+    {
+        "ID": "110",
+        "Name": "Ryan Sebestian",
+        "Gender": "Male",
+        "Class": "11",
+        "ParentName":"Ryan Zuan",
+        "EMailID":"seb.ryan@gmail.com"
+    },
+    {
+        "ID": "112",
+        "Name": "Zyan Sayyad",
+        "Gender": "Male",
+        "Class": "12",
+        "ParentName":"Malik Syyad",
+        "EMailID":"Zyan.shaik@gmail.com"
+    },
+    {
+        "ID": "105",
+        "Name": "Hortencia Mirels",
+        "Gender": "Female",
+        "Class": "8",
+        "ParentName":"Birston Mirels",
+        "EMailID":"Hortencia@gmail.com"
+    },
+    {
+        "ID": "50",
+        "Name": "Tamas tooth",
+        "Gender": "Male",
+        "Class": "14",
+        "ParentName":"Jaroslaw",
+        "EMailID":"tamas@gmail.com"
+    },
+    {
+        "ID": "32",
+        "Name": "dorota Majuzek",
+        "Gender": "Female",
+        "Class": "138",
+        "ParentName":"",
+        "EMailID":"srija11@gmail.com"
+     }
+]
+   
